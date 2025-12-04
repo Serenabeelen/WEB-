@@ -1,0 +1,3 @@
+is een 2 dimensionale layout met rijen en kolommen
+er is dus eerst een grid container gemaakt waarin de grid items inkomen
+De blauwe lijnen zijn de lijnen van alle grid-items die zijn aangemaakt 
